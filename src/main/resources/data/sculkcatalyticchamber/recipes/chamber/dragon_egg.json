@@ -1,0 +1,28 @@
+{
+  "type": "sculkcatalyticchamber:chamber",
+  "heatRequirement": "superheated",
+  "topIngredients": [
+    {
+      "item": "minecraft:egg"
+    }
+  ],
+  "bottomIngredients": [
+    {
+      "item": "minecraft:sculk_shrieker"
+    },
+    {
+      "item": "minecraft:sculk_shrieker"
+    }
+  ],
+  "catalysts": [
+    {
+      "item": "minecraft:nether_star"
+    }
+  ],
+  "chances": 0.05,
+  "results": [
+    {
+      "item": "minecraft:dragon_egg"
+    }
+  ]
+}
